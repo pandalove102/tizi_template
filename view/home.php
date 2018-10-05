@@ -5,12 +5,28 @@
     left: 0;
 }
 .img-banner{
-	width: 80px;
-	height: 60px;
+	width: 100px;
+	height: 100px;
+	/* width: auto; */
+    border: 0;
+    vertical-align: middle;
 }
 .icon-box{
-	max-width: 190px;
-	max-height: 132px;
+	width: 200px;
+    height: 200px;
+}
+
+.font-banner{
+    color: #4f4f4f;
+    /* height: 40px; */
+    /* overflow: hidden; */
+    display: block;
+    font-weight: 500;
+    font-size: 15px;
+    text-decoration: none;
+    text-align: center;
+    /* padding-top: 15px; */
+    /* padding-bottom: 15px; */
 }
 </style>
 <!-- <section class="categories-icon section-padding bg-drack">
@@ -350,7 +366,7 @@
 															<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/nhadat.gif" alt="Nhà Đất">
 														</a>
 												</div>
-												<h4>Nhà Đất</h4>
+												<div class="font-banner">Nhà Đất</div>
 										</a>
 								</div>
 								<div class="icon-box">
@@ -360,7 +376,7 @@
 														<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/xeco.jpg" alt="Xe Cộ, Phụ Tùng">
 													</a>
 												</div>
-												<h4>Xe Cộ, Phụ Tùng</h4>
+												<div class="font-banner">Xe Cộ, Phụ Tùng</div>
 										</a>
 								</div>
 							</div>
@@ -372,7 +388,7 @@
 															<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/dodientu.png" alt="Xe Cộ, Phụ Tùng">
 														</a>
 												</div>
-												<h4>Điện Tử, Điện Máy, Gia Dụng</h4>
+												<div class="font-banner">Điện Tử, Điện Máy, Gia Dụng</div>
 										</a>
 								</div>
 								<div class="icon-box">
@@ -382,7 +398,7 @@
 															<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/thucpham.jpg" alt="Thực Phẩm, Địa Điểm Ăn Uống">
 														</a>
 												</div>
-												<h4>Thực Phẩm- Ăn Uống</h4>
+												<div class="font-banner">Thực Phẩm- Ăn Uống</div>
 										</a>
 								</div>
 							</div>
@@ -392,7 +408,7 @@
 												<div class="icon">
 												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/thoitrang.png" alt="Thời Trang, Mỹ Phẩm">
 												</div>
-												<h4>Thời Trang, Mỹ Phẩm</h4>
+												<div class="font-banner">Thời Trang, Mỹ Phẩm</div>
 										</a>
 								</div>
 								<div class="icon-box">
@@ -400,7 +416,7 @@
 												<div class="icon">
 												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/mevabe.png" alt="Mẹ Và Bé">
 												</div>
-												<h4>Mẹ Và Bé</h4>
+												<div class="font-banner">Mẹ Và Bé</div>
 										</a>
 								</div>
 							</div>
@@ -410,7 +426,7 @@
 												<div class="icon">
 												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/noithat.png" alt="Nội Thất - Ngoại Thất">
 												</div>
-												<h4>Nội Thất - Ngoại Thất</h4>
+												<div class="font-banner">Nội Thất - Ngoại Thất</div>
 										</a>
 								</div>
 								<div class="icon-box">
@@ -418,7 +434,7 @@
 												<div class="icon">
 												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/suckheo.png" alt="Làm Đẹp, Sức Khỏe, Thể Thao">
 												</div>
-												<h4>Làm Đẹp, Sức Khỏe, Thể Thao</h4>
+												<div class="font-banner">Làm Đẹp, Sức Khỏe, Thể Thao</div>
 										</a>
 								</div>
 							</div>
@@ -428,7 +444,7 @@
 												<div class="icon">
 												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/congnghiep.png" alt="Công Nghiệp, Nông Nghiệp, Xây Dựng">
 												</div>
-												<h6>Công Nghiệp, Nông Nghiệp, Xây Dựng</h6>
+												<div class="font-banner">Công Nghiệp, Nông Nghiệp, Xây Dựng</div>
 										</a>
 								</div>
 								<div class="icon-box">
@@ -436,7 +452,7 @@
 												<div class="icon">
 												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/sinhhoat.png" alt="Đồ Dùng Sinh Hoạt, Giải Trí, Sở Thích">
 												</div>
-												<h6>Đồ Dùng Sinh Hoạt, Giải Trí, Sở Thích</h6>
+												<div class="font-banner">Đồ Dùng Sinh Hoạt, Giải Trí, Sở Thích</div>
 										</a>
 								</div>
 							</div>
@@ -446,7 +462,7 @@
 												<div class="icon"> 
 												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/vieclam.png" alt="Việc Làm - Tuyển Sinh">
 												</div>
-												<h4> Việc Làm - Tuyển Sinh  </h4>
+												<div class="font-banner"> Việc Làm - Tuyển Sinh  </div>
 										</a>
 								</div>
 								<div class="icon-box">
@@ -454,7 +470,7 @@
 												<div class="icon">
 												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/dulich.png" alt="Du Lịch">
 												</div>
-												<h4>Du Lịch</h4>
+												<div class="font-banner">Du Lịch</div>
 										</a>
 								</div>
 							</div>
@@ -464,7 +480,7 @@
 												<div class="icon"> 
 												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/ketban.jpg" alt="Hợp Tác, Kết Bạn">
 												</div>
-												<h4> Hợp Tác, Kết Bạn</h4>
+												<div class="font-banner">Hợp Tác, Kết Bạn</div>
 										</a>
 								</div>
 								<div class="icon-box">
@@ -472,7 +488,7 @@
 												<div class="icon">
 												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/dichvu.png" alt="Dịch Vụ ">
 												</div>
-												<h4>Dịch Vụ </h4>
+												<div class="font-banner">Dịch Vụ </div>
 										</a>
 								</div>
 							</div>
@@ -482,7 +498,7 @@
 												<div class="icon">
 												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/vanphong.png" alt="Văn Phòng Phẩm - Quà Tặng">
 												</div>
-												<h6>Văn Phòng Phẩm - Quà Tặng</h6>
+												<div class="font-banner">Văn Phòng Phẩm - Quà Tặng</div>
 										</a>
 								</div>
 								<!-- <div class="icon-box">
