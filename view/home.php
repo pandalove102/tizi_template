@@ -1,7 +1,7 @@
 <style>
 #new-products .owl-controls .owl-buttons {
     position: relative;
-    top: -190px;
+    top: -280px;
     left: 0;
 }
 .img-banner{
@@ -12,8 +12,8 @@
     vertical-align: middle;
 }
 .icon-box{
-	width: 200px;
-    height: 200px;
+	height: 210px;
+	width: auto;
 }
 
 .font-banner{
