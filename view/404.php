@@ -10,7 +10,7 @@
         
     <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1520px;"><div class="owl-item active" style="width: 190px;"><div class="item-category">
                                                                     <div class="box-item fisrt">
-                        <div class="img">
+                        <!-- <div class="img">
                             <a class="width-x" href="/nha-dat-c45.html" title="Nhà Đất" style="height: 118.3px;">
                                 <img src="http://static.muabanvn.net/media/images/category/ico/thiet-ke-1512446741.gif" alt="Nhà Đất">
                             </a>
@@ -30,8 +30,8 @@
                             <a href="/xe-co-phu-tung-c58.html" title="Xe Cộ, Phụ Tùng">
                                 Xe Cộ, Phụ Tùng                            </a>
                         </div>
-                    </div>   
-                                                            </div></div><div class="owl-item active" style="width: 190px;"><div class="item-category">
+                    </div>    -->
+                                                            <!-- </div></div><div class="owl-item active" style="width: 190px;"><div class="item-category">
                                         <div class="box-item fisrt">
                         <div class="img">
                             <a class="width-x" href="/dien-tu-dien-may-gia-dung-c76.html" title="Điện Tử, Điện Máy, Gia Dụng" style="height: 118.3px;">
@@ -75,8 +75,8 @@
                         <div class="content">
                             <a href="/me-va-be-c114.html" title="Mẹ Và Bé">
                                 Mẹ Và Bé                            </a>
-                        </div>
-                    </div>   
+                        </div> -->
+                    <!-- </div>   
                                                             </div></div><div class="owl-item active" style="width: 190px;"><div class="item-category">
                                         <div class="box-item fisrt">
                         <div class="img">
@@ -99,8 +99,8 @@
                             <a href="/lam-dep-suc-khoe-the-thao-c130.html" title="Làm Đẹp, Sức Khỏe, Thể Thao">
                                 Làm Đẹp, Sức Khỏe, Thể Thao                            </a>
                         </div>
-                    </div>   
-                                                            </div></div><div class="owl-item active" style="width: 190px;"><div class="item-category">
+                    </div>    -->
+                                                            <!-- </div></div><div class="owl-item active" style="width: 190px;"><div class="item-category">
                                         <div class="box-item fisrt">
                         <div class="img">
                             <a class="width-x" href="/cong-nghiep-nong-nghiep-xay-dung-c137.html" title="Công Nghiệp, Nông Nghiệp, Xây Dựng" style="height: 118.3px;">
@@ -122,8 +122,8 @@
                             <a href="/do-dung-sinh-hoat-giai-tri-so-thich-c143.html" title="Đồ Dùng Sinh Hoạt, Giải Trí, Sở Thích">
                                 Đồ Dùng Sinh Hoạt, Giải Trí, Sở Thích                            </a>
                         </div>
-                    </div>   
-                                                            </div></div><div class="owl-item active" style="width: 190px;"><div class="item-category">
+                    </div>    -->
+                                                            <!-- </div></div><div class="owl-item active" style="width: 190px;"><div class="item-category">
                                         <div class="box-item fisrt">
                         <div class="img">
                             <a class="width-x" href="/viec-lam---tuyen-sinh-c144.html" title="Việc Làm - Tuyển Sinh" style="height: 118.3px;">
@@ -157,7 +157,7 @@
                             <a href="/hop-tac-ket-ban-c178.html" title="Hợp Tác, Kết Bạn">
                                 Hợp Tác, Kết Bạn                            </a>
                         </div>
-                    </div>   
+                    </div>    -->
                                                         <div class="box-item last">
                         <div class="img">
                             <a class="width-x" href="/dich-vu-c182.html" title="Dịch Vụ" style="height: 118.3px;">

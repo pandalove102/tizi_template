@@ -4,6 +4,14 @@
     top: -190px;
     left: 0;
 }
+.img-banner{
+	width: 80px;
+	height: 60px;
+}
+.icon-box{
+	max-width: 190px;
+	max-height: 132px;
+}
 </style>
 <!-- <section class="categories-icon section-padding bg-drack">
 	<div class="container">
@@ -134,7 +142,7 @@
 </section> -->
 
 
-<section class="categories-icon section-padding bg-drack">
+<!-- <section class="categories-icon section-padding bg-drack">
 	<div class="container">
 		<div class="row">
 				<div  id="new-products" class="owl-carousel">
@@ -316,6 +324,210 @@
 												<h4>Vehicle</h4>
 										</a>
 								</div>
+							</div>
+
+							
+						
+						
+
+					
+				</div>
+
+			</div>
+		</div>
+	</div>
+</section> -->
+
+<section class="categories-icon section-padding bg-drack">
+	<div class="container">
+		<div class="row">
+				<div  id="new-products" class="owl-carousel">
+							<div class="product-item" >
+								<div class="icon-box">
+										<a href="">
+												<div class="icon">
+														<a c href="" title="Nhà Đất" >
+															<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/nhadat.gif" alt="Nhà Đất">
+														</a>
+												</div>
+												<h4>Nhà Đất</h4>
+										</a>
+								</div>
+								<div class="icon-box">
+										<a href="">
+										<div class="icon">
+													<a c href="" title="Xe Cộ, Phụ Tùng" >
+														<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/xeco.jpg" alt="Xe Cộ, Phụ Tùng">
+													</a>
+												</div>
+												<h4>Xe Cộ, Phụ Tùng</h4>
+										</a>
+								</div>
+							</div>
+							<div class="product-item" >
+								<div class="icon-box">
+										<a href="">
+												<div class="icon">
+													<a c href="" title="Điện Tử, Điện Máy, Gia Dụng" >
+															<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/dodientu.png" alt="Xe Cộ, Phụ Tùng">
+														</a>
+												</div>
+												<h4>Điện Tử, Điện Máy, Gia Dụng</h4>
+										</a>
+								</div>
+								<div class="icon-box">
+										<a href="">
+												<div class="icon">
+												<a c href="" title="Thực Phẩm, Địa Điểm Ăn Uống" >
+															<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/thucpham.jpg" alt="Thực Phẩm, Địa Điểm Ăn Uống">
+														</a>
+												</div>
+												<h4>Thực Phẩm- Ăn Uống</h4>
+										</a>
+								</div>
+							</div>
+							<div class="product-item" >
+								<div class="icon-box">
+										<a href="">
+												<div class="icon">
+												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/thoitrang.png" alt="Thời Trang, Mỹ Phẩm">
+												</div>
+												<h4>Thời Trang, Mỹ Phẩm</h4>
+										</a>
+								</div>
+								<div class="icon-box">
+										<a href="">
+												<div class="icon">
+												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/mevabe.png" alt="Mẹ Và Bé">
+												</div>
+												<h4>Mẹ Và Bé</h4>
+										</a>
+								</div>
+							</div>
+							<div class="product-item" >
+								<div class="icon-box">
+										<a href="">
+												<div class="icon">
+												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/noithat.png" alt="Nội Thất - Ngoại Thất">
+												</div>
+												<h4>Nội Thất - Ngoại Thất</h4>
+										</a>
+								</div>
+								<div class="icon-box">
+										<a href="">
+												<div class="icon">
+												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/suckheo.png" alt="Làm Đẹp, Sức Khỏe, Thể Thao">
+												</div>
+												<h4>Làm Đẹp, Sức Khỏe, Thể Thao</h4>
+										</a>
+								</div>
+							</div>
+							<div class="product-item" >
+								<div class="icon-box">
+										<a href="">
+												<div class="icon">
+												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/congnghiep.png" alt="Công Nghiệp, Nông Nghiệp, Xây Dựng">
+												</div>
+												<h6>Công Nghiệp, Nông Nghiệp, Xây Dựng</h6>
+										</a>
+								</div>
+								<div class="icon-box">
+										<a href="">
+												<div class="icon">
+												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/sinhhoat.png" alt="Đồ Dùng Sinh Hoạt, Giải Trí, Sở Thích">
+												</div>
+												<h6>Đồ Dùng Sinh Hoạt, Giải Trí, Sở Thích</h6>
+										</a>
+								</div>
+							</div>
+							<div class="product-item" >
+								<div class="icon-box">
+										<a href="">
+												<div class="icon"> 
+												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/vieclam.png" alt="Việc Làm - Tuyển Sinh">
+												</div>
+												<h4> Việc Làm - Tuyển Sinh  </h4>
+										</a>
+								</div>
+								<div class="icon-box">
+										<a href="">
+												<div class="icon">
+												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/dulich.png" alt="Du Lịch">
+												</div>
+												<h4>Du Lịch</h4>
+										</a>
+								</div>
+							</div>
+							<div class="product-item" >
+								<div class="icon-box">
+										<a href="">
+												<div class="icon"> 
+												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/ketban.jpg" alt="Hợp Tác, Kết Bạn">
+												</div>
+												<h4> Hợp Tác, Kết Bạn</h4>
+										</a>
+								</div>
+								<div class="icon-box">
+										<a href="">
+												<div class="icon">
+												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/dichvu.png" alt="Dịch Vụ ">
+												</div>
+												<h4>Dịch Vụ </h4>
+										</a>
+								</div>
+							</div>
+							<div class="product-item" >
+								<div class="icon-box">
+										<a href="">
+												<div class="icon">
+												<img class="img-banner"  src="<?=template_classixer?>assets/img/category2/vanphong.png" alt="Văn Phòng Phẩm - Quà Tặng">
+												</div>
+												<h6>Văn Phòng Phẩm - Quà Tặng</h6>
+										</a>
+								</div>
+								<!-- <div class="icon-box">
+										<a href="">
+												<div class="icon">
+													<i class="lni-car"></i>
+												</div>
+												<h4>Vehicle</h4>
+										</a>
+								</div> -->
+							</div>
+							<!-- <div class="product-item" >
+								<div class="icon-box">
+										<a href="">
+												<div class="icon">
+													<i class="lni-car"></i>
+												</div>
+												<h4>Vehicle</h4>
+										</a>
+								</div>
+								<div class="icon-box">
+										<a href="">
+												<div class="icon">
+													<i class="lni-car"></i>
+												</div>
+												<h4>Vehicle</h4>
+										</a>
+								</div>
+							</div>	<div class="product-item" >
+								<div class="icon-box">
+										<a href="">
+												<div class="icon">
+													<i class="lni-car"></i>
+												</div>
+												<h4>Vehicle</h4>
+										</a>
+								</div>
+								<div class="icon-box">
+										<a href="">
+												<div class="icon">
+													<i class="lni-car"></i>
+												</div>
+												<h4>Vehicle</h4>
+										</a>
+								</div> -->
 							</div>
 
 							
