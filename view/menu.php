@@ -17,27 +17,68 @@
 								Home
 							</a>
 							<div class="dropdown-menu">
-								<a class="dropdown-item " href="?controller=hethong&act=trangchu">Home 1</a>
-								<a class="dropdown-item" href="?controller=hethong&act=trangchu2">Home 2</a>
-								<a class="dropdown-item " href="?controller=hethong&act=trangchu3">Home 3</a>
+								<a class="dropdown-item " href="?controller=hethong&act=trangchu">Index</a>
+								<!-- <a class="dropdown-item " href="?controller=hethong&act=search">Search</a> -->
+								<!-- <a class="dropdown-item" href="?controller=hethong&act=trangchu2">Home 2</a>
+								<a class="dropdown-item " href="?controller=hethong&act=trangchu3">Home 3</a> -->
 							</div>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="?controller=hethong&act=category">
-								Categories
+							<a class="nav-link" href="?controller=hethong&act=search">
+								Search
 							</a>
 						</li>
-						<li class="nav-item dropdown">
+						<li class="nav-item dropdown ">
+							<a class="nav-link dropdown-toggle" href="?controller=hethong&act=trangchu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								POST AN ADS
+							</a>
+							<div class="dropdown-menu">
+								<a class="dropdown-item " href="?controller=hethong&act=listings">Index</a>
+								<!-- <a class="dropdown-item " href="?controller=hethong&act=listings">Post Listings</a> -->
+								<a class="dropdown-item " href="?controller=hethong&act=details">Post Details</a>
+								<a class="dropdown-item " href="?controller=hethong&act=postads">Post Form</a>
+								<!-- <a class="dropdown-item" href="?controller=hethong&act=trangchu2">Home 2</a>
+								<a class="dropdown-item " href="?controller=hethong&act=trangchu3">Home 3</a> -->
+							</div>
+						</li>
+					
+						<li class="nav-item dropdown ">
+							<a class="nav-link dropdown-toggle" href="?controller=hethong&act=trangchu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								Blogs
+							</a>
+							<div class="dropdown-menu">
+								<a class="dropdown-item " href="?controller=hethong&act=blog">Blog Listings</a>
+								<a class="dropdown-item " href="?controller=hethong&act=blogfullwidth">Blog Full</a>
+								<a class="dropdown-item " href="?controller=hethong&act=singleblog">Blog details</a>
+							</div>
+						</li>
+						<li class="nav-item dropdown ">
+							<a class="nav-link dropdown-toggle" href="?controller=hethong&act=trangchu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								System
+							</a>
+							<div class="dropdown-menu">
+								<a class="dropdown-item " href="?controller=hethong&act=_404">Page 404</a>
+								<a class="dropdown-item " href="?controller=hethong&act=_403">Page 403</a>
+								<a class="dropdown-item " href="?controller=hethong&act=_503">Page 503</a>
+							</div>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="?controller=hethong&act=login">
+								Login
+							</a>
+						</li>
+						
+						<!-- <li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 								Listings
 							</a>
 							<div class="dropdown-menu">
 								<a class="dropdown-item" href="?controller=hethong&act=trangchu">Ad Grid</a>
-								<!-- <a class="dropdown-item" href="adlistinglist.html">Ad Listing</a> -->
+								<a class="dropdown-item" href="adlistinglist.html">Ad Listing</a>
 								<a class="dropdown-item" href="?controller=hethong&act=details">Listing Detail</a>
 							</div>
-						</li>
-						<li class="nav-item dropdown">
+						</li> -->
+						<!-- <li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 								Pages
 							</a>
@@ -51,8 +92,8 @@
 								<a class="dropdown-item" href="?controller=hethong&act=faq">FAQ</a>
 								<a class="dropdown-item" href="?controller=hethong&act=_404">404</a>
 							</div>
-						</li>
-						<li class="nav-item dropdown">
+						</li> -->
+						<!-- <li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 								Blog
 							</a>
@@ -62,12 +103,12 @@
 								<a class="dropdown-item" href="?controller=hethong&act=blogfullwidth"> Blog full width </a>
 								<a class="dropdown-item" href="?controller=hethong&act=singleblog">Blog Details</a>
 							</div>
-						</li>
-						<li class="nav-item">
+						</li> -->
+						<!-- <li class="nav-item">
 							<a class="nav-link" href="?controller=hethong&act=contact">
 								Contact
 							</a>
-						</li>
+						</li> -->
 					</ul>
 					<ul class="sign-in">
 						<li class="nav-item dropdown">
@@ -92,56 +133,50 @@
 
 			<ul class="mobile-menu">
 				<li>
-					<a class="active" href="#">
+					<a href="?controller=hethong&act=trangchu">
 						Home
 					</a>
-					<ul class="dropdown">
-						<li><a href="?controller=hethong&act=trangchu">Home 1</a></li>
+					<!-- <ul class="dropdown">
+						<li><a href="?controller=hethong&act=trangchu">Index</a></li>
+						<li><a href="?controller=hethong&act=search">Search</a></li>
 						<li><a href="?controller=hethong&act=trangchu2">Home 2</a></li>
 						<li><a class="active" href="?controller=hethong&act=trangchu3">Home 2</a></li>
-					</ul>
+					</ul> -->
 				</li>
 				<li>
-					<a href="?controller=hethong&act=category">Categories</a>
-				</li>
-				<li>
-					<a href="?controller=hethong&act=listings">
-						Listings
-					</a>
-					<ul class="dropdown">
-						<li><a href="?controller=hethong&act=postads">Ad Grid</a></li>
-						<li><a href="?controller=hethong&act=listings">Ad Listing</a></li>
-						<li><a href="?controller=hethong&act=details">Listing Detail</a></li>
-					</ul>
-				</li>
-				<li>
-					<a href="#">Pages</a>
-					<ul class="dropdown">
-						<li><a href="?controller=hethong&act=about">About Us</a></li>
-						<li><a href="?controller=hethong&act=service">Services</a></li>
-						<li><a href="?controller=hethong&act=details">Ads Details</a></li>
-						<li><a href="?controller=hethong&act=postads">Ads Post</a></li>
-						<li><a href="?controller=hethong&act=pricing">Packages</a></li>
-						<li><a href="?controller=hethong&act=testimonial">Testimonial</a></li>
-						<li><a href="?controller=hethong&act=faq">FAQ</a></li>
-						<li><a href="?controller=hethong&act=_404">404</a></li>
-
-				
-					</ul>
+					<a href="?controller=hethong&act=search">Search</a>
 				</li>
 				<li>
 					<a href="#">Blog</a>
 					<ul class="dropdown">
-						<li><a href="?controller=hethong&act=blog">Blog - Right Sidebar</a></li>
-						<li><a href="?controller=hethong&act=blogleftsidebar">Blog - Left Sidebar</a></li>
-						<li><a href="?controller=hethong&act=blogfullwidth"> Blog full width </a></li>
-						<li><a href="?controller=hethong&act=singleblog">Blog Details</a></li>
-
-					
+						<li><a href="?controller=hethong&act=blog">Blog Listings</a></li>
+						<li><a href="?controller=hethong&act=blogfullwidth">Blog Full</a></li>
+						<li><a href="?controller=hethong&act=singleblog">Blog details</a>
+					</ul>
+				</li>
+				
+				<li>
+					<a href="?controller=hethong&act=listings">
+						Post An Ads
+					</a>
+					<ul class="dropdown">
+						<li><a href="?controller=hethong&act=listings">Index</a></li>
+						<!-- <li><a href="?controller=hethong&act=listings">Post Listings</a></li> -->
+						<li><a href="?controller=hethong&act=details">Post Details</a></li>
+						<li><a <a class="dropdown-item " href="?controller=hethong&act=postads">Post Form</a></li>
 					</ul>
 				</li>
 				<li>
-					<a href="?controller=hethong&act=contact">Contact Us</a>
+					<a href="#">System</a>
+					<ul class="dropdown">
+						<li><a href="?controller=hethong&act=_404">Page 404</a></li>
+						<li><a href="?controller=hethong&act=_403">Page 403</a></li>
+						<li><a href="?controller=hethong&act=_503">Page 503</a></li>
+					</ul>
+				</li>
+				
+				<li>
+					<a href="?controller=hethong&act=login">Login</a>
 				</li>
 				<li>
 					<a>My Account</a>

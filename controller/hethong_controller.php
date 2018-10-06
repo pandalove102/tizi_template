@@ -21,6 +21,14 @@ class hethong_controller extends controller
     {
         $this->render('_404',$data = array(),'layout_empty');
     }
+    function _403()
+    {
+        $this->render('_403',$data = array(),'layout_empty');
+    }
+    function _503()
+    {
+        $this->render('_503',$data = array(),'layout_empty');
+    }
     function category()
     {
         $this->render('category',$data = array(),'layout_category');
@@ -128,6 +136,11 @@ class hethong_controller extends controller
     {
         $data['signup']="signup";
         $this->render('signup',$data = array(),'layout_text');
+    }
+    function search()
+    {
+        $data['search']="search";
+        $this->render('search',$data = array(),'layout_text');
     }
 
 

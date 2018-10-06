@@ -5,9 +5,10 @@
         <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
                 <div class="widget">
-                    <h3 class="footer-logo"><img src="<?=template_classixer?>assets/img/logo.png" alt=""></h3>
+                    <h3 class="footer-logo"><img src="<?=template_classixer?>assets/img/category2/logo.png" alt=""></h3>
                     <div class="textwidget">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lobortis tincidunt est, et euismod purus suscipit quis. Etiam euismod ornare elementum. Sed ex est, consectetur eget facilisis sed, auctor ut purus.</p>
+                        <p>Buy And Sell Everything From Used Cars To Mobile Phones And Computers, 
+Or Search For Property, Jobs And More</p>
                     </div>
                 </div>
             </div>
@@ -23,7 +24,7 @@
                                 </div>
                             </div>
                             <div class="media-body">
-                                <h4 class="post-title"><a href="ads-details.html">Brand New Macbook Pro</a></h4>
+                                <h4 class="post-title"><a href="?controller=hethong&act=details">Brand New Macbook Pro</a></h4>
                                 <span class="date">12 Jan 2018</span>
                             </div>
                         </li>
@@ -35,7 +36,7 @@
                                 </div>
                             </div>
                             <div class="media-body">
-                                <h4 class="post-title"><a href="ads-details.html">Canon Photography Camera</a></h4>
+                                <h4 class="post-title"><a href="?controller=hethong&act=details">Canon Photography Camera</a></h4>
                                 <span class="date">28 Mar 2018</span>
                             </div>
                         </li>
@@ -46,18 +47,18 @@
                 <div class="widget">
                     <h3 class="block-title">Help & Support</h3>
                     <ul class="menu">
-                        <li><a href="#">Live Chat</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#">Purchase Protection</a></li>
-                        <li><a href="#">Support</a></li>
-                        <li><a href="#">Contact us</a></li>
+                        <li><a href="?controller=hethong&act=details">Live Chat</a></li>
+                        <li><a href="?controller=hethong&act=details">Privacy Policy</a></li>
+                        <li><a href="?controller=hethong&act=details">Purchase Protection</a></li>
+                        <li><a href="?controller=hethong&act=details">Support</a></li>
+                        <li><a href="?controller=hethong&act=contact">Contact us</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
                 <div class="widget">
                     <h3 class="block-title">Subscribe us</h3>
-                    <p class="text-sub">We have over 5 years of experience Our suppoer avalable to help you 24 hours a day, seven days week</p>
+                    <p class="text-sub">Để nhận tin mới về mua bán rao vặt hay mọi thông tin cần thiết !! </p>
                     <form method="post" id="subscribe-form" name="subscribe-form" class="validate">
                         <div class="form-group is-empty">
                             <input type="email" value="" name="Email" class="form-control" id="EMAIL" placeholder="Email address" required="">
@@ -83,7 +84,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="site-info float-left">
-                    <p>All copyrights reserved &copy; 2018 - Designed by <a href="https://uideck.com/" rel="nofollow">UIdeck</a></p>
+                    <!-- <p>All copyrights reserved &copy; 2018 - Designed by <a href="" rel="nofollow">UIdeck</a></p> -->
+                    <p> All copyrights reserved &copy; <a href="" rel="nofollow"> 2018 </a></p>
                 </div>
                 <div class="float-right">
                     <ul class="bottom-card">

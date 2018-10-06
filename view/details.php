@@ -136,7 +136,7 @@
 							</div>
 						</div>
 						<div class="product-content">
-							<h3 class="product-title"><a href="ads-details.html">Apple Macbook Pro</a></h3>
+							<h3 class="product-title"><a href="?controller=hethong&act=details">Apple Macbook Pro</a></h3>
 							<p>Lorem ipsum dolor sit</p>
 							<span class="price">$ 89.00</span>
 							<div class="meta">
@@ -172,7 +172,7 @@
 							</div>
 						</div>
 						<div class="product-content">
-							<h3 class="product-title"><a href="ads-details.html">Nikon D70 Camerar</a></h3>
+							<h3 class="product-title"><a href="?controller=hethong&act=details">Nikon D70 Camerar</a></h3>
 							<p>Lorem ipsum dolor sit</p>
 							<span class="price">$ 79.00</span>
 							<div class="meta">
@@ -211,7 +211,7 @@
 							</div>
 						</div>
 						<div class="product-content">
-							<h3 class="product-title"><a href="ads-details.html">Iphone X</a></h3>
+							<h3 class="product-title"><a href="?controller=hethong&act=details">Iphone X</a></h3>
 							<p>Lorem ipsum dolor sit</p>
 							<span class="price">$ 30.00</span>
 							<div class="meta">

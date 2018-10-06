@@ -1,19 +1,63 @@
-<div class="page-header" style="background: url(<?=template_classixer?>assets/img/banner1.jpg);">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="breadcrumb-wrapper">
-						<h2 class="product-title">Listings</h2>
-						<ol class="breadcrumb">
-							<li><a href="#">Home /</a></li>
-							<li class="current">Listings</li>
-						</ol>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+<section id="header-wrap">
 
+
+<div id="hero-area">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-12 col-xs-12 text-center">
+                <div class="contents">
+                    <!-- <h1 class="head-title">Welcome to <span class="year">Mua Bán Rao Vặt</span></h1> -->
+                    <!-- <p>Buy And Sell Everything From Used Cars To Mobile Phones And Computers, <br> Or Search For Property, Jobs And More</p> -->
+                    <div class="search-bar">
+                        <div class="search-inner">
+                            <form class="search-form">
+                                <div class="form-group inputwithicon">
+                                    <i class="lni-tag"></i>
+                                    <input type="text" name="customword" class="form-control" placeholder="Enter Product Keyword">
+                                </div>
+                                <div class="form-group inputwithicon">
+                                    <i class="lni-map-marker"></i>
+                                    <div class="select">
+                                        <select>
+                                            <option value="none">Locations</option>
+                                            <option value="none">New York</option>
+                                            <option value="none">California</option>
+                                            <option value="none">Washington</option>
+                                            <option value="none">Birmingham</option>
+                                            <option value="none">Chicago</option>
+                                            <option value="none">Phoenix</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group inputwithicon">
+                                    <i class="lni-menu"></i>
+                                    <div class="select">
+                                        <select>
+                                            <option value="none">Categories</option>
+                                            <option value="none">Jobs</option>
+                                            <option value="none">Electronics</option>
+                                            <option value="none">Mobile</option>
+                                            <option value="none">Training</option>
+                                            <option value="none">Pets</option>
+                                            <option value="none">Real Estate</option>
+                                            <option value="none">Services</option>
+                                            <option value="none">Training</option>
+                                            <option value="none">Vehicles</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <button class="btn btn-common" type="button"><i class="lni-search"></i> Search Now</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</section>
 
 	<div class="main-container section-padding">
 		<div class="container">
@@ -21,12 +65,12 @@
 				<div class="col-lg-3 col-md-12 col-xs-12 page-sidebar">
 					<aside>
 
-						<div class="widget_search">
+						<!-- <div class="widget_search">
 							<form role="search" id="search-form">
 								<input type="search" class="form-control" autocomplete="off" name="s" placeholder="Search..." id="search-input" value="">
 								<button type="submit" id="search-submit" class="search-btn"><i class="lni-search"></i></button>
 							</form>
-						</div>
+						</div> -->
 
 						<div class="widget categories">
 							<h4 class="widget-title">All Categories</h4>
@@ -75,6 +119,10 @@
 								</li>
 							</ul>
 						</div>
+
+                     
+                     
+
 						<div class="widget">
 							<h4 class="widget-title">Advertisement</h4>
 							<div class="add-box">
@@ -114,46 +162,51 @@
 					</div>
 
 
+                    
+
+
+
+
 					<div class="adds-wrapper">
 						<div class="tab-content">
 							<div id="grid-view" class="tab-pane fade active show">
 								<div class="row">
 									<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-										<div class="featured-box">
+                                    <div class="featured-box">
 											<figure>
 												<div class="icon">
 													<i class="lni-heart"></i>
 												</div>
-												<a href="#"><img class="img-fluid" src="<?=template_classixer?>assets/img/featured/img1.jpg" alt=""></a>
+												<a href="#"><img class="img-fluid" src="<?=template_classixer?>assets/img/featured/img5.jpg" alt=""></a>
 											</figure>
 											<div class="feature-content">
 												<div class="product">
-													<a href="#"><i class="lni-folder"></i> Mobile Phones</a>
+													<a href="#"><i class="lni-folder"></i> Apple</a>
 												</div>
-												<h4><a href="?controller=hethong&act=details">Apple iPhone X</a></h4>
-												<span>Last Updated: 3 hours ago</span>
+												<h4><a href="?controller=hethong&act=details">Apple Macbook Pro 13 Inch</a></h4>
+												<span>Last Updated: 4 hours ago</span>
 												<ul class="address">
 													<li>
-														<a href="#"><i class="lni-map-marker"></i> Avenue C, US</a>
+														<a href="#"><i class="lni-map-marker"></i>Louis, Missouri, US</a>
 													</li>
 													<li>
-														<a href="#"><i class="lni-alarm-clock"></i> Feb 18, 2018</a>
+														<a href="#"><i class="lni-alarm-clock"></i> May 18, 2018</a>
 													</li>
 													<li>
-														<a href="#"><i class="lni-user"></i> Maria Barlow</a>
+														<a href="#"><i class="lni-user"></i> Will Ernest</a>
 													</li>
 													<li>
-														<a href="#"><i class="lni-package"></i> Used</a>
+														<a href="#"><i class="lni-package"></i> Brand New</a>
 													</li>
 												</ul>
 												<div class="listing-bottom">
-													<h3 class="price float-left">$200.00</h3>
+													<h3 class="price float-left">$450.00</h3>
 													<a href="account-myads.html" class="btn-verified float-right"><i class="lni-check-box"></i> Verified Ad</a>
 												</div>
 											</div>
 										</div>
 									</div>
-									<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+									<!-- <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 										<div class="featured-box">
 											<figure>
 												<div class="icon">
@@ -255,7 +308,7 @@
 												</div>
 											</div>
 										</div>
-									</div>
+									</div> -->
 								</div>
 							</div>
 							<div id="list-view" class="tab-pane fade">
@@ -295,7 +348,7 @@
 											</div>
 										</div>
 									</div>
-									<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+									<!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 										<div class="featured-box">
 											<figure>
 												<div class="icon">
@@ -397,7 +450,7 @@
 												</div>
 											</div>
 										</div>
-									</div>
+									</div> -->
 								</div>
 							</div>
 						</div>

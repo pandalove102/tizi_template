@@ -561,7 +561,7 @@
 
 <section class="featured section-padding">
 	<div class="container">
-		<h1 class="section-title">Latest Products</h1>
+		<span><h1 class="section-title">Latest Products</h1></span>
 		<div class="row">
 			<div class="col-xs-6 col-sm-6 col-md-6 col-lg-4">
 				<div class="featured-box">
@@ -575,7 +575,7 @@
 						<div class="product">
 							<a href="#"><i class="lni-folder"></i> Mobile Phones</a>
 						</div>
-						<h4><a href="ads-details.html">Apple iPhone X</a></h4>
+						<h4><a href="?controller=hethong&act=details">Apple iPhone X</a></h4>
 						<span>Last Updated: 1 hours ago</span>
 						<ul class="address">
 							<li>
@@ -610,7 +610,7 @@
 						<div class="product">
 							<a href="#"><i class="lni-folder"></i> Real Estate</a>
 						</div>
-						<h4><a href="ads-details.html">Amazing Room for Rent</a></h4>
+						<h4><a href="?controller=hethong&act=details">Amazing Room for Rent</a></h4>
 						<span>Last Updated: 2 hours ago</span>
 						<ul class="address">
 							<li>
@@ -644,7 +644,7 @@
 						<div class="product">
 							<a href="#"><i class="lni-folder"></i> Electronics</a>
 						</div>
-						<h4><a href="ads-details.html">Canon SX Powershot D-SLR</a></h4>
+						<h4><a href="?controller=hethong&act=details">Canon SX Powershot D-SLR</a></h4>
 						<span>Last Updated: 4 hours ago</span>
 						<ul class="address">
 							<li>
@@ -678,7 +678,7 @@
 						<div class="product">
 							<a href="#"><i class="lni-folder"></i> Vehicles</a>
 						</div>
-						<h4><a href="ads-details.html">BMW 5 Series GT Car</a></h4>
+						<h4><a href="?controller=hethong&act=details">BMW 5 Series GT Car</a></h4>
 						<span>Last Updated: 5 hours ago</span>
 						<ul class="address">
 							<li>
@@ -713,7 +713,7 @@
 						<div class="product">
 							<a href="#"><i class="lni-folder"></i> Apple</a>
 						</div>
-						<h4><a href="ads-details.html">Apple Macbook Pro 13 Inch</a></h4>
+						<h4><a href="?controller=hethong&act=details">Apple Macbook Pro 13 Inch</a></h4>
 						<span>Last Updated: 4 hours ago</span>
 						<ul class="address">
 							<li>
@@ -748,7 +748,7 @@
 						<div class="product">
 							<a href="#"><i class="lni-folder"></i> Restaurant</a>
 						</div>
-						<h4><a href="ads-details.html">Cream Restaurant</a></h4>
+						<h4><a href="?controller=hethong&act=details">Cream Restaurant</a></h4>
 						<span>Last Updated: 4 hours ago</span>
 						<ul class="address">
 							<li>
@@ -793,7 +793,7 @@
 								</div>
 							</div>
 							<div class="product-content">
-								<h3 class="product-title"><a href="ads-details.html">Apple Macbook Pro</a></h3>
+								<h3 class="product-title"><a href="?controller=hethong&act=details">Apple Macbook Pro</a></h3>
 								<p>Lorem ipsum dolor sit</p>
 								<span class="price">$ 89.00</span>
 								<div class="meta">
@@ -831,7 +831,7 @@
 								</div>
 							</div>
 							<div class="product-content">
-								<h3 class="product-title"><a href="ads-details.html">Nikon D70 Camerar</a></h3>
+								<h3 class="product-title"><a href="?controller=hethong&act=details">Nikon D70 Camerar</a></h3>
 								<p>Lorem ipsum dolor sit</p>
 								<span class="price">$ 79.00</span>
 								<div class="meta">
@@ -872,7 +872,7 @@
 								</div>
 							</div>
 							<div class="product-content">
-								<h3 class="product-title"><a href="ads-details.html">Iphone X</a></h3>
+								<h3 class="product-title"><a href="?controller=hethong&act=details">Iphone X</a></h3>
 								<p>Lorem ipsum dolor sit</p>
 								<span class="price">$ 30.00</span>
 								<div class="meta">
@@ -910,7 +910,7 @@
 								</div>
 							</div>
 							<div class="product-content">
-								<h3 class="product-title"><a href="ads-details.html">Brown Leather Bag</a></h3>
+								<h3 class="product-title"><a href="?controller=hethong&act=details">Brown Leather Bag</a></h3>
 								<p>Lorem ipsum dolor sit</p>
 								<span class="price">$ 59.00</span>
 								<div class="meta">
@@ -951,7 +951,7 @@
 								</div>
 							</div>
 							<div class="product-content">
-								<h3 class="product-title"><a href="ads-details.html">iMac Pro</a></h3>
+								<h3 class="product-title"><a href="?controller=hethong&act=details">iMac Pro</a></h3>
 								<p>Lorem ipsum dolor sit</p>
 								<span class="price">$ 12.00</span>
 								<div class="meta">
@@ -989,7 +989,7 @@
 								</div>
 							</div>
 							<div class="product-content">
-								<h3 class="product-title"><a href="ads-details.html">6 Bed Room For Rent</a></h3>
+								<h3 class="product-title"><a href="?controller=hethong&act=details">6 Bed Room For Rent</a></h3>
 								<p>Lorem ipsum dolor sit</p>
 								<span class="price">$ 79.00</span>
 								<div class="meta">
@@ -1030,7 +1030,7 @@
 								</div>
 							</div>
 							<div class="product-content">
-								<h3 class="product-title"><a href="ads-details.html">New Basket Ball</a></h3>
+								<h3 class="product-title"><a href="?controller=hethong&act=details">New Basket Ball</a></h3>
 								<p>Lorem ipsum dolor sit</p>
 								<span class="price">$ 39.00</span>
 								<div class="meta">
@@ -1068,7 +1068,7 @@
 								</div>
 							</div>
 							<div class="product-content">
-								<h3 class="product-title"><a href="ads-details.html">Dinning Table</a></h3>
+								<h3 class="product-title"><a href="?controller=hethong&act=details">Dinning Table</a></h3>
 								<p>Lorem ipsum dolor sit</p>
 								<span class="price">$ 69.00</span>
 								<div class="meta">
@@ -1185,51 +1185,10 @@
 </section>
 
 
-<section class="counter-section section-padding">
-	<div class="container">
-		<div class="row">
-
-			<div class="col-md-3 col-sm-6 work-counter-widget text-center">
-				<div class="counter">
-					<div class="icon"><i class="lni-layers"></i>
-					</div>
-					<h2 class="counterUp">12090</h2>
-					<p>Regular Ads</p>
-				</div>
-			</div>
-
-			<div class="col-md-3 col-sm-6 work-counter-widget text-center">
-				<div class="counter">
-					<div class="icon"><i class="lni-map"></i>
-					</div>
-					<h2 class="counterUp">350</h2>
-					<p>Locations</p>
-				</div>
-			</div>
-
-			<div class="col-md-3 col-sm-6 work-counter-widget text-center">
-				<div class="counter">
-					<div class="icon"><i class="lni-user"></i>
-					</div>
-					<h2 class="counterUp">23453</h2>
-					<p>Reguler Members</p>
-				</div>
-			</div>
-
-			<div class="col-md-3 col-sm-6 work-counter-widget text-center">
-				<div class="counter">
-					<div class="icon"><i class="lni-briefcase"></i>
-					</div>
-					<h2 class="counterUp">250</h2>
-					<p>Premium Ads</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
 
 
-<section id="pricing-table" class="section-padding">
+
+<!-- <section id="pricing-table" class="section-padding">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
@@ -1302,7 +1261,7 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 
 
 <section class="testimonial section-padding">
@@ -1377,7 +1336,7 @@
 </section>
 
 
-<section class="subscribes section-padding">
+<!-- <section class="subscribes section-padding">
 	<div class="container">
 		<div class="row wrapper-sub">
 			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
@@ -1393,7 +1352,7 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 
 
 <section class="cta section-padding">
@@ -1423,7 +1382,49 @@
 						<i class="lni-headphone-alt"></i>
 					</div>
 					<h4>24/7 Support</h4>
-					<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie</p>
+					<p>hỗ trợ 24/7 khi gặp khó khăn hay cần hổ trợ , hãy gọi chúng tôi</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="counter-section section-padding">
+	<div class="container">
+		<div class="row">
+
+			<div class="col-md-3 col-sm-6 work-counter-widget text-center">
+				<div class="counter">
+					<div class="icon"><i class="lni-layers"></i>
+					</div>
+					<h2 class="counterUp">12090</h2>
+					<p>Regular Ads</p>
+				</div>
+			</div>
+
+			<div class="col-md-3 col-sm-6 work-counter-widget text-center">
+				<div class="counter">
+					<div class="icon"><i class="lni-map"></i>
+					</div>
+					<h2 class="counterUp">350</h2>
+					<p>Locations</p>
+				</div>
+			</div>
+
+			<div class="col-md-3 col-sm-6 work-counter-widget text-center">
+				<div class="counter">
+					<div class="icon"><i class="lni-user"></i>
+					</div>
+					<h2 class="counterUp">23453</h2>
+					<p>Reguler Members</p>
+				</div>
+			</div>
+
+			<div class="col-md-3 col-sm-6 work-counter-widget text-center">
+				<div class="counter">
+					<div class="icon"><i class="lni-briefcase"></i>
+					</div>
+					<h2 class="counterUp">250</h2>
+					<p>Premium Ads</p>
 				</div>
 			</div>
 		</div>
