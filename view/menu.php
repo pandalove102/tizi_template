@@ -8,7 +8,7 @@
 						<span class="lni-menu"></span>
 						<span class="lni-menu"></span>
 					</button>
-					<a href="?controller=hethong&act=trangchu" class="navbar-brand"><img src="<?=template_classixer?>assets/img/logo.png" alt=""></a>
+					<a href="?controller=hethong&act=trangchu" class="navbar-brand"><img src="<?=template_classixer?>assets/img/category2/logo.png" alt=""></a>
 				</div>
 				<div class="collapse navbar-collapse" id="main-navbar">
 					<ul class="navbar-nav mr-auto">
