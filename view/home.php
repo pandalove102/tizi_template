@@ -28,6 +28,9 @@
     /* padding-top: 15px; */
     /* padding-bottom: 15px; */
 }
+.section-title {
+    text-decoration: underline;
+}
 </style>
 <!-- <section class="categories-icon section-padding bg-drack">
 	<div class="container">

@@ -7,8 +7,8 @@
                 <div class="widget">
                     <h3 class="footer-logo"><img src="<?=template_classixer?>assets/img/category2/logo.png" alt=""></h3>
                     <div class="textwidget">
-                        <p>Buy And Sell Everything From Used Cars To Mobile Phones And Computers, 
-Or Search For Property, Jobs And More</p>
+                        <p>Đăng ký nhận bản tin 
+Đừng bỏ lỡ hàng ngàn sản phẩm đang chờ bạn với giá tốt nhất </p>
                     </div>
                 </div>
             </div>
@@ -45,7 +45,7 @@ Or Search For Property, Jobs And More</p>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
                 <div class="widget">
-                    <h3 class="block-title">Help & Support</h3>
+                    <h3 class="block-title">KẾT NỐI VỚI CHÚNG TÔI</h3>
                     <ul class="menu">
                         <li><a href="?controller=hethong&act=details">Live Chat</a></li>
                         <li><a href="?controller=hethong&act=details">Privacy Policy</a></li>
@@ -58,7 +58,7 @@ Or Search For Property, Jobs And More</p>
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
                 <div class="widget">
                     <h3 class="block-title">Subscribe us</h3>
-                    <p class="text-sub">Để nhận tin mới về mua bán rao vặt hay mọi thông tin cần thiết !! </p>
+                    <p class="text-sub">Đăng ký nhận bản tin Đừng bỏ lỡ hàng ngàn sản phẩm đang chờ bạn với giá tốt nhất </p>
                     <form method="post" id="subscribe-form" name="subscribe-form" class="validate">
                         <div class="form-group is-empty">
                             <input type="email" value="" name="Email" class="form-control" id="EMAIL" placeholder="Email address" required="">
