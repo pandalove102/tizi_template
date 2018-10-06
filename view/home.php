@@ -1366,8 +1366,8 @@
 					<div class="cta-icon">
 						<i class="lni-grid"></i>
 					</div>
-					<h4>Refreshing Design</h4>
-					<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie</p>
+					<h4>Các câu hỏi thường gặp</h4>
+					<!-- <p>Các câu hỏi thường gặp.............................</p> -->
 				</div>
 			</div>
 			<div class="col-xs-12 col-md-6 col-lg-4">
@@ -1375,8 +1375,8 @@
 					<div class="cta-icon">
 						<i class="lni-brush"></i>
 					</div>
-					<h4>Easy to Customize</h4>
-					<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie</p>
+					<h4>Phương thức vận chuyển</h4>
+					<!-- <p>Phương thức vận chuyển.............................</p> -->
 				</div>
 			</div>
 			<div class="col-xs-12 col-md-6 col-lg-4">
@@ -1385,7 +1385,7 @@
 						<i class="lni-headphone-alt"></i>
 					</div>
 					<h4>24/7 Support</h4>
-					<p>hỗ trợ 24/7 khi gặp khó khăn hay cần hổ trợ , hãy gọi chúng tôi</p>
+					<!-- <p>hỗ trợ 24/7 khi gặp khó khăn hay cần hổ trợ , hãy gọi chúng tôi</p> -->
 				</div>
 			</div>
 		</div>
