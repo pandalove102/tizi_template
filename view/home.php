@@ -31,6 +31,7 @@
 .section-title {
     text-decoration: underline;
 }
+
 </style>
 <!-- <section class="categories-icon section-padding bg-drack">
 	<div class="container">
@@ -359,6 +360,7 @@
 
 <section class="categories-icon section-padding bg-drack">
 	<div class="container">
+		<span><h1 class="section-title">Category</h1></span>
 		<div class="row">
 				<div  id="new-products" class="owl-carousel">
 							<div class="product-item" >
