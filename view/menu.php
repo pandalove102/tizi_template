@@ -60,6 +60,7 @@
 								<a class="dropdown-item " href="?controller=hethong&act=_404">Page 404</a>
 								<a class="dropdown-item " href="?controller=hethong&act=_403">Page 403</a>
 								<a class="dropdown-item " href="?controller=hethong&act=_503">Page 503</a>
+								<a class="dropdown-item " href="?controller=hethong&act=contact">Contact</a>
 							</div>
 						</li>
 						<li class="nav-item">
@@ -172,6 +173,7 @@
 						<li><a href="?controller=hethong&act=_404">Page 404</a></li>
 						<li><a href="?controller=hethong&act=_403">Page 403</a></li>
 						<li><a href="?controller=hethong&act=_503">Page 503</a></li>
+						<li><a href="?controller=hethong&act=contact">Contact</a></li>
 					</ul>
 				</li>
 				
@@ -189,6 +191,7 @@
 						<li><a href="?controller=hethong&act=signup"><i class="lni-user"></i> Signup</a></li>
 						<li><a href="?controller=hethong&act=forgotpassword"><i class="lni-reload"></i> Forgot Password</a></li>
 						<li><a href="?controller=hethong&act=accountclose"><i class="lni-close"></i>Account close</a></li>
+						<li><a href="?controller=hethong&act=contact">Contact</a></li>
 				
 					</ul>
 				</li>
