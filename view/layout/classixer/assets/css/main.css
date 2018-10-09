@@ -92,12 +92,13 @@ ul li, ol li {
 	text-transform: uppercase;
 	position: relative
 }
+/* bỏ gạc xanh ở giữa tiêu đề  */
 .section-title:before {
 	position: absolute;
 	content: '';
 	height: 1px;
 	width: 45px;
-	left: 50%;
+	left: 25px;
 	bottom: 10px;
 	-webkit-transform: translateX(-50%);
 	transform: translateX(-50%);

@@ -29,7 +29,7 @@
     /* padding-bottom: 15px; */
 }
 .section-title {
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 
 </style>
